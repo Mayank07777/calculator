@@ -1,0 +1,3 @@
+This is a fully functional and responsive web-based calculator created using HTML, CSS, and JavaScript. It allows users to perform all basic arithmetic operations such as addition, subtraction, multiplication, division, and percentage calculations. The interface is designed with a modern glassmorphism theme, featuring soft transparency, rounded corners, and interactive button animations for a smooth user experience.
+
+The calculator also includes functionalities like AC (All Clear), DEL (Delete last entry), and handles errors gracefully. It adapts to different screen sizes, making it suitable for both desktop and mobile devices. This project demonstrates strong knowledge of DOM manipulation, event handling, and clean UI design principles.
